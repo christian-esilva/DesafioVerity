@@ -10,3 +10,4 @@ API Open Bank
 * Swagger para exibição dos contratos
 * Biblioteca MediatR para instância dos handlers
 * JWT para autenticação
+* Programação assíncrona
